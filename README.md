@@ -1,0 +1,2 @@
+# studentmanagement
+student /admin management 
