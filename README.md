@@ -1,6 +1,4 @@
-# studentmanagement
-student /admin management 
-Student Management System - Java Study Plan 📚
+ Student Management System - Java Study Plan 📚
 📋 Project Overview
 Goal: Build a Console-Based Student Management System in Java Users: Admin & Student
 with role-based f
